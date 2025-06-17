@@ -1,5 +1,3 @@
 This is the first message.
-This is second message for revert back first commit and changing itvas second commit. 
-This is third message for checking with local changes git pull can be done.
-With local changes checked-in and conflict arises and manually resolved conflict by removing previous line and updated.
+
 Rechecking whether allowed to pull with local change 
