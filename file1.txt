@@ -1,3 +1,8 @@
 This is the first message.
+<<<<<<< Updated upstream
 This is second message for revert back first commit and changing itvas second commit. 
 This is third message for checking with local changes git pull can be done.
+=======
+This is second message for revert back first commit and changing itvas second commit.
+This is third message for
+>>>>>>> Stashed changes
