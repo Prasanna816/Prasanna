@@ -1,3 +1,1 @@
-This is the first message.
 
-Rechecking whether allowed to pull with local change 
